@@ -7,7 +7,4 @@ print(f'A cotação do dólar hoje é R$ {cotacao:.2}')
 
 print(type(cotacao))
 
-fatu = 1000
-print(f'Faturamento: {fatu:.2f}')
-
 
